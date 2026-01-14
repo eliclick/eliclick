@@ -1,4 +1,5 @@
 # Eli Click
+
 *Bachelor's in Computer Science Engineering from Ohio State University*
 
 *Graduated December 2025*
