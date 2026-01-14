@@ -1,6 +1,6 @@
 # Eli Click
-## Bachelor's in Computer Science Engineering from Ohio State University
-### Graduated December 2025
+*Bachelor's in Computer Science Engineering from Ohio State University*
+*Graduated December 2025*
 
 <!--
 **eliclick/eliclick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
